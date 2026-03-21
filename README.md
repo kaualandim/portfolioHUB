@@ -1,5 +1,8 @@
 # 👨‍💻 Kauã | Portfólio
 
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Curso](https://img.shields.io/badge/curso-Engenharia%20de%20Software-blue)
+
 Olá! Me chamo **Kauã** 👋  
 Sou estudante de **Engenharia de Software no UniCEUB** e estou iniciando minha jornada no mundo da tecnologia 🚀  
 

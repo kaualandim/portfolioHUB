@@ -1,49 +1,24 @@
-# 👨‍💻 Kauã | Portfólio
+# Portfólio Acadêmico
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Curso](https://img.shields.io/badge/curso-Engenharia%20de%20Software-blue)
+Olá, meu nome é Kauã.
 
-Olá! Me chamo **Kauã** 👋  
-Sou estudante de **Engenharia de Software no UniCEUB** e estou iniciando minha jornada no mundo da tecnologia 🚀  
+Este repositório foi criado para o Bootcamp da faculdade com o objetivo de desenvolver um portfólio profissional utilizando GitHub e GitHub Pages.
 
----
+## Sobre mim
 
-## 👤 Sobre mim
-Atualmente estou no início da minha formação em Engenharia de Software no UniCEUB. Tenho grande interesse em desenvolvimento de sistemas, tecnologia e criação de projetos, e estou sempre buscando aprender coisas novas.
+Sou estudante da área de tecnologia e estou iniciando meus estudos em desenvolvimento web e programação.
 
----
+## Tecnologias
 
-## 🎯 Objetivo
-Meu objetivo é evoluir na área de tecnologia, desenvolver minhas habilidades práticas e construir projetos que demonstrem meu crescimento como desenvolvedor.
+- GitHub
+- HTML
+- CSS
+- Bootstrap
 
----
+## Objetivo
 
-## 💻 Projetos
-🚧 Em desenvolvimento...
+Aprender versionamento de código, organização de projetos e publicação de páginas web.
 
-*(Em breve adicionarei meus primeiros projetos aqui!)*
+## Autor
 
----
-
-## 🧠 Habilidades
-- 💡 Raciocínio lógico  
-- 🤝 Trabalho em equipe  
-- 📚 Facilidade de aprendizado  
-- 💻 Interesse em tecnologia  
-
----
-
-## 📚 Formação
-- Ensino Médio Completo  
-- 🎓 Cursando Engenharia de Software - UniCEUB  
-
----
-
-## 📞 Contato
-📧 Email: kauaplandim@gmail.com  
-🔗 LinkedIn: [Kauã Paes](https://www.linkedin.com/in/kau%C3%A3-paes-2595323b2)
-
----
-
-## 🚀 Sobre este portfólio
-Este portfólio foi desenvolvido como parte do meu processo de aprendizado, com o objetivo de registrar minha evolução na área de tecnologia.
+Kauã Paes
